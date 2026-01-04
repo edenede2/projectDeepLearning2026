@@ -1,0 +1,11 @@
+# Ignore heavy files
+*.zip
+*.tar.gz    
+
+# Ignore OS generated files
+.DS_Store
+data/
+models/
+
+.venv/
+__pycache__/
